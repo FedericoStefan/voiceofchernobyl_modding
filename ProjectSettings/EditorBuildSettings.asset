@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: 57951bc520532a94ca97a7fbc6f49e08
+  - enabled: 1
+    path: Assets/Bunker.unity
+    guid: c92327f659574144aaa2c463037cd66f
+  - enabled: 1
+    path: Assets/Bunker_SNOW.unity
+    guid: 82000c84fd106854285d46783eeebfdf
+  - enabled: 1
+    path: Assets/Desert Village.unity
+    guid: 6127e60ced42479c46ef4473763aff92
+  - enabled: 1
+    path: Assets/Chelyabinsk.unity
+    guid: 77b96ba61c2d6f944825772936cb8235
+  - enabled: 1
+    path: Assets/Sniper Hideout.unity
+    guid: 9a12e6b740742b948b46630bc4a13942
+  - enabled: 1
+    path: Assets/TO_BE_REPLACED/Scene/Pripyat.unity
+    guid: 71c5913c33e2437429a7cc8c0ae80933
+  - enabled: 1
+    path: Assets/Bridge.unity
+    guid: 8f3cdf1d3d227204f9f50592527fe4bc
+  - enabled: 1
+    path: Assets/TO_BE_REPLACED/PLACEHOLDER_REACTOR/Assets/Scene/Reactor.unity
+    guid: d5f624bd1df92dbd4fc5b9d3fc419fb3
+  - enabled: 1
+    path: Assets/Moving Trains.unity
+    guid: ddb56ec1c134fde4186ee2aadaa7f17c
+  - enabled: 1
+    path: Assets/Zombie Town.unity
+    guid: 9766c81de19c44a48b83357c5de39bf1
+  - enabled: 1
+    path: Assets/jumpwe/jumper.unity
+    guid: 0aa38112aee03b5439268c5e7078fbc9
+  - enabled: 1
+    path: Assets/Abandoned Base.unity
+    guid: 7a3d1c336afb0934fbf9a90a1d685ec5
+  - enabled: 1
+    path: Assets/Big Kitchen.unity
+    guid: ba4fc804c4b775d4ca3da84f999cdb4e
+  - enabled: 1
+    path: Assets/Graveyard.unity
+    guid: 47fee9f7bce094842a4efd53587fe572
+  - enabled: 1
+    path: Assets/Infected Pripyat.unity
+    guid: a2a570ba53f9abc4e8ed8b8c661b8739
+  - enabled: 1
+    path: Assets/!VOCSurvival/SurvivalMapVoC.unity
+    guid: ccdf58810309ae849ade731fe5b3e9c3
+  - enabled: 1
+    path: Assets/MAP_MAKER/GILES/Scenes/Level Editor.unity
+    guid: b0171d1d9fa113e4aa973deb5506ce6b
+  - enabled: 1
+    path: Assets/claustrophobia.unity
+    guid: d51892c2132a62945a92078f6ed3c317
+  - enabled: 1
+    path: Assets/CUSTOM MAP.unity
+    guid: 9ddefbb8cc18bd249bb66fe067c466f6
+  - enabled: 1
+    path: Assets/Levit-town.unity
+    guid: 2eae7217146c4294490dccc9c316dc54
+  - enabled: 1
+    path: Assets/!VOCSurvival/Escape.unity
+    guid: 3c3bd736dac1e634c86834ae1ea7d610
+  - enabled: 1
+    path: Assets/!Aj Clothing/TRAINING_dm.unity
+    guid: 5cd8e58a4a86a804daa96a8f11e20f06
+  - enabled: 1
+    path: Assets/Bunker_FALL.unity
+    guid: 69eb1968c2dac084f85bd56b33ffe7fe
+  - enabled: 1
+    path: Assets/Bunker_HALLOWEEN.unity
+    guid: 58952921b22c7464a8b1887d49e1c5a5
+  - enabled: 1
+    path: Assets/MENU_CHRISTMAS.unity
+    guid: 5873b6eaa66dd7f428cbf6f51eda8d92
+  - enabled: 1
+    path: Assets/MENU_FALL.unity
+    guid: 291986a6074a19e4884b8bff9525729e
+  - enabled: 1
+    path: Assets/MENU_HALLOWEEN.unity
+    guid: 49bad23e868250b42a84746242c2f66c
+  - enabled: 1
+    path: Assets/MENU_NORMAL.unity
+    guid: 4bc68db5d600d4a47938d697ad0f7335
+  - enabled: 1
+    path: Assets/MENU_SNOW.unity
+    guid: 65434608b6c53a242b44e7a9c4e63164
+  - enabled: 1
+    path: Assets/Graveyard_Snow.unity
+    guid: 1c9593357127e8747abb89887d72dfff
+  m_configObjects: {}

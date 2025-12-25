@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerCollider
+  - Concrete
+  - Dirt
+  - Metal
+  - Wood
+  - Blood
+  - Water
+  - Head
+  - Helicopter
+  - OLD1
+  - OLD2
+  - NPC
+  - Carpet
+  - Bullet
+  - Sand
+  - Old
+  - unknown_20011
+  - unknown_20002
+  - unknown_20008
+  - unknown_20009
+  - Boulder
+  - Snow
+  - unknown_20012
+  - unknown_20017
+  - unknown_20018
+  - unknown_20045
+  - unknown_20044
+  - unknown_20038
+  - unknown_20043
+  - Waterpuddle
+  - Ladder
+  - Knife
+  - LadderZone
+  - Glass
+  - Vehicle
+  - Prostrel
+  - unknown_20010
+  - unknown_20006
+  - unknown_20007
+  - unknown_20019
+  - unknown_20016
+  - VehicleComponent
+  - Usable
+  - AutospawnObject
+  - gun
+  - aimblur
+  - hitblur
+  - Fire
+  - PModel
+  - MP5KA4
+  - ZOMBIEVENTNOW
+  - unknown_20030
+  - unknown_20031
+  - SpectatorCam
+  - MainFPSCam
+  - Paper
+  - navpoint
+  - PlayerTrigger
+  - body
+  - newdeathcam
+  - head
+  - ZoneWall
+  - CamPos
+  - servertag
+  - Undefined
+  - unknown_20047
+  - unknown_20032
+  - freecamtag
+  - veryslipperyice
+  - Block
+  - pickupText
+  - Map
+  - InteractAble
+  - Waypoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Vehicle
+  - 
+  - PlayerRoot
+  - PlayerColliders
+  - IgnoreCollisionWithPlayer
+  - PlayerRagdoll
+  - LoadoutMenu
+  - PlayerBotSpottingCollider
+  - FirstPerson
+  - TriggerForPlayer
+  - Destroyable
+  - Bullet
+  - PM
+  - 
+  - navpoint
+  - MB
+  - Blood
+  - Collision Blocker
+  - 
+  - 
+  - 
+  - 
+  - map
+  - 
+  - PostProcessing
+  - Minimap
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Camera_Effect
+    uniqueID: 375102449
+    locked: 0

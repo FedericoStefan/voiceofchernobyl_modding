@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22111be9689046e1bd7b8b1fae4d0b3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  injectionDetectorEnabled: 1
+  preGenerateBuildHash: 1
+  disableInjectionDetectorValidation: 0
+  disableWallhackDetectorValidation: 1
+  injectionDetectorWhiteList:
+  - name: ACTk.Examples.Genuine.Runtime
+    hashes: 80205a7a
+  - name: ACTk.Examples.Runtime
+    hashes: 9c1b71ed
+  - name: ACTk.Runtime
+    hashes: 4f8e5afd
+  - name: Assembly-CSharp
+    hashes: 36c4a1a8
+  - name: Assembly-CSharp-firstpass
+    hashes: 465edf95
+  - name: GameJoltDemos
+    hashes: 2fbf352b
+  - name: GameJoltRuntime
+    hashes: 8de925c5
+  - name: Mono.Security
+    hashes: 61eead2c
+  - name: mscorlib
+    hashes: 288bfe85
+  - name: netstandard
+    hashes: 7c490f0b
+  - name: OEBIF
+    hashes: 584027c1
+  - name: Photon3Unity3D
+    hashes: 61d4cbeb
+  - name: PhotonChat
+    hashes: 579f418a
+  - name: PhotonRealtime
+    hashes: 9910e752
+  - name: PhotonUnityNetworking.Demos
+    hashes: 7432f831
+  - name: PhotonUnityNetworking
+    hashes: d64c099d
+  - name: PhotonUnityNetworking.Utilities
+    hashes: 3cdd9114
+  - name: PhotonVoice.API
+    hashes: 91747b9c
+  - name: PhotonVoice
+    hashes: 70843c92
+  - name: PhotonVoice.PUN
+    hashes: 31ae0878
+  - name: UnityEngine.XRModule
+    hashes: 8eab979d
+  - name: UnityEngine.WindModule
+    hashes: 0d547033
+  - name: UnityEngine.VRModule
+    hashes: faf0c3c1
+  - name: UnityEngine.VideoModule
+    hashes: 7dfa929d
+  - name: UnityEngine.VFXModule
+    hashes: c3de5b5f
+  - name: UnityEngine.VehiclesModule
+    hashes: 5a6b5379
+  - name: UnityEngine.UnityWebRequestTextureModule
+    hashes: 65c613d3
+  - name: UnityEngine.UnityWebRequestModule
+    hashes: a93d6017
+  - name: UnityEngine.UnityAnalyticsModule
+    hashes: a4c8a0ae
+  - name: UnityEngine.UIModule
+    hashes: 4117b844
+  - name: UnityEngine.UIElementsModule
+    hashes: e50fb40a
+  - name: UnityEngine.UI
+    hashes: 0d0423bf
+  - name: UnityEngine.TilemapModule
+    hashes: a0608926
+  - name: PlayFab
+    hashes: 019bc850
+  - name: System.Configuration
+    hashes: 5561d375
+  - name: UnityEngine.TextRenderingModule
+    hashes: 9666742d
+  - name: UnityEngine.TerrainPhysicsModule
+    hashes: 39c51910
+  - name: UnityEngine.TerrainModule
+    hashes: 9de3dd22
+  - name: UnityEngine.SubsystemsModule
+    hashes: 4b50e4c4
+  - name: UnityEngine.SharedInternalsModule
+    hashes: 71e883cd
+  - name: UnityEngine
+    hashes: 9daccc68
+  - name: UnityEngine.ScreenCaptureModule
+    hashes: 188d3f31
+  - name: UnityEngine.PhysicsModule
+    hashes: 81bfd85d
+  - name: UnityEngine.Physics2DModule
+    hashes: 1050f07b
+  - name: UnityEngine.ParticleSystemModule
+    hashes: 6b0d2447
+  version: 2.0.4
